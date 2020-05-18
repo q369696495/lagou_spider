@@ -14,3 +14,9 @@
     
 ### 2.运行demo文件
     python lagou_test.py
+
+### 3. 如果我的demo 对你有帮助
+    打赏一下我吧 您的支持 是我最大的动力
+    ![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+    ![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+
