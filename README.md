@@ -1,4 +1,4 @@
-# 拉勾爬虫demo
+# 拉勾爬虫 cookie生成 demo
 
 ## 测试环境
 - `python`: 3.7.5
